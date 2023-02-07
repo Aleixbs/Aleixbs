@@ -4,7 +4,7 @@
 
 - :earth_africa: I'm currently learning GIS development in ESRI 🌱🌱
 - :construction_worker: I'm currently working on: 
-  - ✨Building a Resume website to display all my projects on github.io
+  - ✨Building a Resume website to display all my projects on github.io    ![cv](https://img.shields.io/badge/Cv-Working-brightgreen)
   - ✨Building a collaborative tool to contribute to save my homeland wildlife and forests from overconstruction in SOS COSTABRAVA
   - ✨Building a solution for little                  
 - 💥 I’m looking to collaborate on any GIS related project  
@@ -28,7 +28,9 @@ Or via 📩 Email at:
   <a href="https://codepen.io/Aleixbs" target="_blank"><img src="https://img.shields.io/badge/-Codepen-blue?style=for-the-badge&logo=Codepen&logoColor=white" /></a>
 </p>
 
-#### Repositories
+## Active Repositories
+
+
 
 <p align ="center">
   <a href
