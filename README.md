@@ -32,7 +32,7 @@ Or via 📩 Email at:
 
 <p align="center">
   <a href =" " target="_blank"><img src="https://img.shields.io/badge/Cv-Working-brightgreen " /></a>
-  <a href =" " target="_blank"><img src="https://img.shields.io/badge/SOSCB-On%20Hold-yellowgreen " /></a>
+  <a href =" " target="_blank"><img src="https://img.shields.io/badge/SOSCB-On%20Hold-yellow " /></a>
   <a href =" " target="_blank"><img src="https://img.shields.io/badge/PFM-Working-brightgreen " /></a>
   <a href =" " target="_blank"><img src="https://img.shields.io/badge/MASTER%20GIS-Working-brightgreen " /></a>
 </p>
