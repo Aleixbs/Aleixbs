@@ -12,12 +12,13 @@
 - 👯 I’m looking to collaborate on any project that involves GIS on it
 
 ## 📫 How to reach me:
-                       ⚡Email: aleix19.96@gmail.com
 
 <p align="center">
   <a href="https://twitter.com/aleixbs" target="_blank"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aleixbatllesureda/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+or via ⚡Email at: aleix19.96@gmail.com
 
 <!--
 **Aleixbs/Aleixbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
