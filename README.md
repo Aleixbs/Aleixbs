@@ -22,7 +22,7 @@ Or via 📩 Email at:
 
 - 💬 Don't hesitate and let's get in touch! 
 
-## ⚡ <h2>Also check <img src="https://icons8.com/icon/yJycuiXrNXR4/globe" width="40px"/>: </h2>
+## ⚡ <h2>Also check <img src="https://media.giphy.com/media/1dIpAfIiac6cD9vdbT/giphy.gif" width="40px"/>: </h2>
 
 <p align="center">
   <a href="https://codepen.io/Aleixbs" target="_blank"><img src="https://img.shields.io/badge/-Codepen-black?style=for-the-badge&logo=Codepen&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
