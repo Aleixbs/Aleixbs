@@ -4,9 +4,9 @@
                       ✨Building a Resume website to display all my projects on github.io
                       ✨Building a collaborative tool to contribute to save my homeland wildlife and forests from overconstruction in SOS COSTABRAVA
  - 💬 Ask me about anything that could be of your interest on GIS related geography or urbanism topics    
- - 📫 How to reach me:
-                       ⚡Email: aleix19.96@gmail.com
 - 👯 I’m looking to collaborate on any project that involves GIS on it
+- 📫 How to reach me:
+                       ⚡Email: aleix19.96@gmail.com
 
 <p align="center">
   <a href="https://twitter.com/aleixbs" target="_blank"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
