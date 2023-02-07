@@ -4,9 +4,9 @@
 
 - :earth_africa: I'm currently learning GIS development in ESRI 🌱🌱
 - :construction_worker: I'm currently working on: 
-  - ✨Building a Resume website to display all my projects on github.io    ![cv](https://img.shields.io/badge/Cv-Working-brightgreen)
-  - ✨Building a collaborative tool for wildlife and forests protection at SOS COSTABRAVA  ![SOS](https://img.shields.io/badge/Project-On%20Hold-yellowgreen)
-  - ✨Building a solution to display regional economics on a website for my final project  ![PFM](https://img.shields.io/badge/PFM-Working-brightgreen)               
+  - ✨Building a Resume website to display all my projects on github.io      ![cv](https://img.shields.io/badge/Cv-Working-brightgreen)
+  - ✨Building a collaborative tool for wildlife and forests protection at SOS COSTABRAVA   ![SOS](https://img.shields.io/badge/Project-On%20Hold-yellowgreen)
+  - ✨Building a solution to display regional economics on a website for my final project   ![PFM](https://img.shields.io/badge/PFM-Working-brightgreen)               
 - 💥 I’m looking to collaborate on any GIS related project  
 
 ## 📫 How to reach me:
