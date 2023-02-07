@@ -31,7 +31,7 @@ Or via 📩 Email at:
 ## Active Repositories
 
 ![cv](https://img.shields.io/badge/Cv-Working-brightgreen)
-![SOS](https://img.shields.io/badge/Project-On%20Hold-yellowgreen)
+![SOS](https://img.shields.io/badge/SOSCB-On%20Hold-yellowgreen)
 ![PFM](https://img.shields.io/badge/PFM-Working-brightgreen)  
 
 <p align ="center">
