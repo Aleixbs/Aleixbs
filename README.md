@@ -16,7 +16,9 @@
   <a href="https://www.linkedin.com/in/aleixbatllesureda/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-                    or via 📩 Email at: aleix19.96@gmail.com
+Or via 📩 Email at:
+
+                                                                aleix19.96@gmail.com
 
 - 💬 Don't hesitate and let's get in touch! 
 
