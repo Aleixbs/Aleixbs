@@ -28,14 +28,17 @@ Or via 📩 Email at:
   <a href="https://codepen.io/Aleixbs" target="_blank"><img src="https://img.shields.io/badge/-Codepen-blue?style=for-the-badge&logo=Codepen&logoColor=white" /></a>
 </p>
 
-## Active Repositories
+## 🧭 Active Repositories:
 
 ![cv](https://img.shields.io/badge/Cv-Working-brightgreen)
 ![SOS](https://img.shields.io/badge/SOSCB-On%20Hold-yellowgreen)
 ![PFM](https://img.shields.io/badge/PFM-Working-brightgreen)  
 
 <p align ="center">
-  <a href
+  <a href =" " target="_blank"><img src="https://img.shields.io/badge/Cv-Working-brightgreen " /></a>
+  <a href =" " target="_blank"><img src="https://img.shields.io/badge/SOSCB-On%20Hold-yellowgreen " /></a>
+  <a href =" " target="_blank"><img src="https://img.shields.io/badge/PFM-Working-brightgreen " /></a>
+  <a href =" " target="_blank"><img src="https://img.shields.io/badge/MASTER%20GIS-Working-brightgreen " /></a>
 </p>
 
 <!--
