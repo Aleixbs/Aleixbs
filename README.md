@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
 - :earth_africa: I'm currently learning GIS development in ESRI 
 - :construction_worker: I'm currently working on: 
                       ✨Building a Resume website to display all my projects on github.io
