@@ -34,7 +34,7 @@ Or via 📩 Email at:
 ![SOS](https://img.shields.io/badge/SOSCB-On%20Hold-yellowgreen)
 ![PFM](https://img.shields.io/badge/PFM-Working-brightgreen)  
 
-<p align ="center">
+<p display="flex" justify-content="space-around">
   <a href =" " target="_blank"><img src="https://img.shields.io/badge/Cv-Working-brightgreen " /></a>
   <a href =" " target="_blank"><img src="https://img.shields.io/badge/SOSCB-On%20Hold-yellowgreen " /></a>
   <a href =" " target="_blank"><img src="https://img.shields.io/badge/PFM-Working-brightgreen " /></a>
