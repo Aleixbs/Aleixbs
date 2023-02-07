@@ -18,7 +18,13 @@
 
 or via ⚡Email at: aleix19.96@gmail.com
 
-- 💬 Don't hesitate and let's get in touch!   
+- 💬 Don't hesitate and let's get in touch! 
+
+## ⚡ Also check: 
+
+<p align="center">
+  <a href="https://codepen.io/Aleixbs" target="_blank"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+
 <!--
 **Aleixbs/Aleixbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
