@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
 
-# About me 🙋🏻‍♀️
+# About me 🙋🏻‍♀️🤠
 
 - :earth_africa: I'm currently learning GIS development in ESRI 🌱🌱
 - :construction_worker: I'm currently working on: 
