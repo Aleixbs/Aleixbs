@@ -3,6 +3,7 @@
 ## 🙇‍ About me:
 
 - :earth_africa: I'm currently learning GIS development in ESRI 🌱🌱
+
 - :construction_worker: I'm currently working on: 
   - ✨Building a Resume website to display all my projects on github.io      
   - ✨Building a collaborative tool for wildlife and forests protection at SOS COSTABRAVA   
