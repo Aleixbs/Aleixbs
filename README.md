@@ -30,11 +30,7 @@ Or via 📩 Email at:
 
 ## 🧭 Active Repositories:
 
-![cv](https://img.shields.io/badge/Cv-Working-brightgreen)
-![SOS](https://img.shields.io/badge/SOSCB-On%20Hold-yellowgreen)
-![PFM](https://img.shields.io/badge/PFM-Working-brightgreen)  
-
-<p display="flex" justify-content="space-around">
+<p align="center">
   <a href =" " target="_blank"><img src="https://img.shields.io/badge/Cv-Working-brightgreen " /></a>
   <a href =" " target="_blank"><img src="https://img.shields.io/badge/SOSCB-On%20Hold-yellowgreen " /></a>
   <a href =" " target="_blank"><img src="https://img.shields.io/badge/PFM-Working-brightgreen " /></a>
