@@ -13,7 +13,7 @@
 ## 📫 How to reach me:
 
 <p align="center">
-  <a href="https://twitter.com/aleixbat" target="_blank"><img src="https://img.shields.io/badge/-Twitter-lightblue?style=for-the-badge&logo=Twitter&logoColor=white" style="border-radius:100%;"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/aleixbat" target="_blank"><img src="https://img.shields.io/badge/-Twitter-lightblue?style=for-the-badge&logo=Twitter&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aleixbatllesureda/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:aleix19.96@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-white?&style=for-the-badge&logo=Gmail&logoColor=red" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Aleixbs/Aleixbs/issues/new" target="_blank"><img src="https://img.shields.io/badge/Github-black?&style=for-the-badge&logo=Github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; 
