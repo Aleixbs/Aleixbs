@@ -14,7 +14,6 @@
 <p align="center">
   <a href="https://twitter.com/aleixbat" target="_blank"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aleixbatllesureda/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
 <a href="mailto:aleix19.96@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-%230077B5.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
