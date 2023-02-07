@@ -1,11 +1,17 @@
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
-- :earth_africa: I'm currently learning GIS development in ESRI 
+
+# About me 🙋🏻‍♀️
+
+- :earth_africa: I'm currently learning GIS development in ESRI 🌱🌱
 - :construction_worker: I'm currently working on: 
                       ✨Building a Resume website to display all my projects on github.io
                       ✨Building a collaborative tool to contribute to save my homeland wildlife and forests from overconstruction in SOS COSTABRAVA
- - 💬 Ask me about anything that could be of your interest on GIS related geography or urbanism topics    
+                      ✨Building a solution for little 
+                      
+- 💬 Ask me about anything that could be of your interest on GIS related geography or urbanism topics    
 - 👯 I’m looking to collaborate on any project that involves GIS on it
-- 📫 How to reach me:
+
+## 📫 How to reach me:
                        ⚡Email: aleix19.96@gmail.com
 
 <p align="center">
