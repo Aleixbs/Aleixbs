@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"/>, nice to see you</h1>
+<h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"/>, nice to see you 🌎</h1> 
 
 ## About me 🙇‍♂️
 
