@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"/>, nice to see you</h1> 👍
+<h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"/>, nice to see you</h1>
 
 # About me 🙇‍♂️
 
@@ -6,10 +6,8 @@
 - :construction_worker: I'm currently working on: 
   - ✨Building a Resume website to display all my projects on github.io
   - ✨Building a collaborative tool to contribute to save my homeland wildlife and forests from overconstruction in SOS COSTABRAVA
-  - ✨Building a solution for little
-                      
-- 💬 Ask me about anything that could be of your interest on GIS related geography or urbanism topics    
-- 👯 I’m looking to collaborate on any project that involves GIS on it
+  - ✨Building a solution for little                  
+- 💥 I’m looking to collaborate on any GIS related project  
 
 ## 📫 How to reach me:
 
@@ -20,6 +18,7 @@
 
 or via ⚡Email at: aleix19.96@gmail.com
 
+- 💬 Don't hesitate and let's get in touch!   
 <!--
 **Aleixbs/Aleixbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
