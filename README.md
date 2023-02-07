@@ -18,11 +18,7 @@
 <a href="https://github.com/Aleixbs/Aleixbs/issues/new" target="_blank"><img src="https://img.shields.io/badge/Github-black?&style=for-the-badge&logo=Github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; 
 </p>
 
-Or via 📩 Email at:
-
-                                                                aleix19.96@gmail.com
-
-- 💬 Don't hesitate and let's get in touch! 
+- 💬 <b>Don't hesitate and let's get in touch!</b>
 
 ## ⚡ <h2>Also check <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Earth.gif" width="40px"/>: </h2>
 
