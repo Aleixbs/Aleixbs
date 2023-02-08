@@ -26,7 +26,7 @@
 <p align="center">
   <a href="https://codepen.io/Aleixbs" target="_blank"><img src="https://img.shields.io/badge/-Codepen-black?style=for-the-badge&logo=Codepen&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.kaggle.com/aleixbs" target="_blank"><img src="https://img.shields.io/badge/-kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://auth.geeksforgeeks.org/user/esriab710p" target="_blank"><img src="https://img.shields.io/badge/-GeeksForGeeks-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://auth.geeksforgeeks.org/user/esriab710p" target="_blank"><img src="https://img.shields.io/badge/-GeeksForGeeks-limegreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ## 🧭 Active Repositories:
