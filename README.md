@@ -32,7 +32,7 @@
 ## 🧭 Active Repositories:
 
 <p align="center">
-  <a href ="https://aleixbs.github.io/MasterGIS_U5_HtmlCSSJs/HTML/CV/ " target="_blank"><img src="https://img.shields.io/badge/Cv-Working-brightgreen " /></a>
+  <a href ="https://aleixbs.github.io/MasterGIS_U5_HtmlCSSJs/HTML/CV/ " target="_blank"><img src="https://img.shields.io/badge/Cv-Done-darkgreen " /></a>
   <a href ="https://soscostabrava.cat/ " target="_blank"><img src="https://img.shields.io/badge/SOSCB-On%20Hold-yellow " /></a>
   <a href ="https://www.esri.es/es-es/home " target="_blank"><img src="https://img.shields.io/badge/PFM-Working-brightgreen " /></a>
   <a href ="https://aleixbs.github.io/MasterGIS_U5_HtmlCSSJs/ " target="_blank"><img src="https://img.shields.io/badge/MASTER%20GIS-Working-brightgreen " /></a>
