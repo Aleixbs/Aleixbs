@@ -35,22 +35,23 @@
      <a href="https://skillicons.dev">
          <img src="https://skillicons.dev/icons?i=bootstrap,dojo/> 
      </a>
-         <img src="https://dojo.io/logo.2eZA5N70.svg"  alt="dojo toolkit for ArcGIS Js API" height = "20" width = "20" align="center" />
-         <img src="https://aleixbs.github.io/icons/Matplotlib_icon.svg"  alt="MatPlotLib icon" height = "20" width = "20" align="top" />
-         <img src="https://commons.wikimedia.org/wiki/File:Pandas_logo.svg"  alt="Pandas logo" height = "20" width = "20" align="top" />
-         <img src="https://commons.wikimedia.org/wiki/File:Scikit_learn_logo_small.svg"  alt="SCIKIT LEARN" height = "20" width = "20" align="top" />  
+         <img src="https://aleixbs.github.io/icons/Dojo_toolkit_logo.svg"  alt="dojo toolkit for ArcGIS Js API" height = "45" width = "45" align="center" />
+         <img src="https://aleixbs.github.io/icons/Matplotlib_icon.svg"  alt="MatPlotLib icon" height = "45" width = "45" align="top" />
+         <img src="https://aleixbs.github.io/icons/Pandas_logo.svg"  alt="Pandas logo" height = "45" width = "45" align="top" />
+         <img src="https://aleixbs.github.io/icons/Scikit_learn_logo_small.svg"  alt="SCIKIT LEARN" height = "45" width = "45" align="top" />  
      
   </p>
   
   <h3>Software and GIS Tools </h3>
   <p align='center'>
     <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
-    <img src="https://esri.github.io/arcgis-pro-sdk/images/ArcGISPro.png"  alt="ArcGIS Pro SDK for Microsoft .NET Framework" height = "45" width = "45" align="top"  >
+    <img src="https://esri.github.io/arcgis-pro-sdk/images/ArcGISPro.png"  alt="ArcGIS Pro SDK for Microsoft .NET Framework" height = "45" width = "45" align="center"  >
+     <img src="https://aleixbs.github.io/icons/QGIS_logo_new.svg"  alt="ArcGIS Pro SDK for Microsoft .NET Framework" height = "45" width = "45" align="top"  >
+    <img src="https://aleixbs.github.io/icons/Google_Earth_icon.svg"  alt="ArcGIS Pro SDK for Microsoft .NET Framework" height = "45" width = "45" align="top"  >
 <!--    <img src="https://commons.wikimedia.org/wiki/File:ArcGIS_logo.png"  alt="ArcGIS Pro SDK for Microsoft .NET Framework" height = "20" width = "20" align="top"  >
-    <img src="https://commons.wikimedia.org/wiki/File:QGIS_logo_new.svg"  alt="ArcGIS Pro SDK for Microsoft .NET Framework" height = "20" width = "20" align="top"  >
-    <img src="https://commons.wikimedia.org/wiki/File:Google_Earth_icon.svg"  alt="ArcGIS Pro SDK for Microsoft .NET Framework" height = "20" width = "20" align="top"  >
+<-->
   </p>
---> 
+
   <h3> Databases </h3>
   <p align="center">
    <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" />
