@@ -20,6 +20,39 @@
 </p>
 
 - 💬 <b>Don't hesitate and let's get in touch!</b>
+  
+## 🛠️ My tools: 
+  
+   <h3> :pencil2: Programming and Markup Languages</h3>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=js,,html,css,py,r" />
+    </a>
+  </p>
+  
+  <h3>🧰 Frameworks and Libraries</h3>
+  <p align="center">
+     <a href="https://skillicons.dev">
+         <img src="https://skillicons.dev/icons?i=bootstrap/> 
+         <img src="https://commons.wikimedia.org/wiki/File:Dojo_toolkit_logo.svg"  alt="dojo toolkit for ArcGIS Js API" height = "20" width = "20" align="top" />
+         <img src="https://commons.wikimedia.org/wiki/File:Matplotlib_icon.svg"  alt="MatPlotLib icon" height = "20" width = "20" align="top" />
+         <img src="https://commons.wikimedia.org/wiki/File:Pandas_logo.svg"  alt="Pandas logo" height = "20" width = "20" align="top" />
+         <img src="https://commons.wikimedia.org/wiki/File:Scikit_learn_logo_small.svg"  alt="SCIKIT LEARN" height = "20" width = "20" align="top" />  
+     </a>
+  </p>
+  
+  <h3>Software and GIS Tools </h3>
+  <p align='center'>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+    <img src="https://esri.github.io/arcgis-pro-sdk/images/ArcGISPro.png"  alt="ArcGIS Pro SDK for Microsoft .NET Framework" height = "20" width = "20" align="top"  >
+    <img src="https://commons.wikimedia.org/wiki/File:ArcGIS_logo.png"  alt="ArcGIS Pro SDK for Microsoft .NET Framework" height = "20" width = "20" align="top"  >
+    <img src="https://commons.wikimedia.org/wiki/File:QGIS_logo_new.svg"  alt="ArcGIS Pro SDK for Microsoft .NET Framework" height = "20" width = "20" align="top"  >
+    <img src="https://commons.wikimedia.org/wiki/File:Google_Earth_icon.svg"  alt="ArcGIS Pro SDK for Microsoft .NET Framework" height = "20" width = "20" align="top"  >
+ 
+  <h3> Databases </h3>
+   <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" />
+  
+  </p>
 
 ## ⚡ Also check:
 
