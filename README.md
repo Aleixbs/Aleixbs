@@ -45,12 +45,12 @@
   <h3>Software and GIS Tools </h3>
   <p align='center'>
     <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
-    <img src="https://esri.github.io/arcgis-pro-sdk/images/ArcGISPro.png"  alt="ArcGIS Pro SDK for Microsoft .NET Framework" height = "20" width = "20" align="top"  >
-    <img src="https://commons.wikimedia.org/wiki/File:ArcGIS_logo.png"  alt="ArcGIS Pro SDK for Microsoft .NET Framework" height = "20" width = "20" align="top"  >
+    <img src="https://esri.github.io/arcgis-pro-sdk/images/ArcGISPro.png"  alt="ArcGIS Pro SDK for Microsoft .NET Framework" height = "40" width = "40" align="top"  >
+<!--    <img src="https://commons.wikimedia.org/wiki/File:ArcGIS_logo.png"  alt="ArcGIS Pro SDK for Microsoft .NET Framework" height = "20" width = "20" align="top"  >
     <img src="https://commons.wikimedia.org/wiki/File:QGIS_logo_new.svg"  alt="ArcGIS Pro SDK for Microsoft .NET Framework" height = "20" width = "20" align="top"  >
     <img src="https://commons.wikimedia.org/wiki/File:Google_Earth_icon.svg"  alt="ArcGIS Pro SDK for Microsoft .NET Framework" height = "20" width = "20" align="top"  >
   </p>
- 
+--> 
   <h3> Databases </h3>
   <p align="center">
    <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" />
