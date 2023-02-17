@@ -6,7 +6,7 @@
   <li>🌍 I'm currently learning GIS development in ESRI 🌱🌱  
 
   <li>:construction_worker: I'm currently working on: <li>
-      <li style="margin-left:2em">✨Building a Resume website to display all my projects on github.io  https://Aleixbs.github.io/CV_Aleixbs </li>   
+      <li align="center">✨Building a Resume website to display all my projects on github.io  https://Aleixbs.github.io/CV_Aleixbs </li>   
       <li>✨Building a collaborative tool for wildlife and forests protection at SOS COSTABRAVA   </li>
   - ✨Building a solution to display regional economics on a website for my final project                
 - 💥 I’m looking to collaborate on any GIS related project  
