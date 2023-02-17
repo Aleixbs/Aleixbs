@@ -22,8 +22,7 @@
   <a href="mailto:aleix19.96@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-linen?&style=for-the-badge&logo=Gmail&logoColor=red";" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Aleixbs/Aleixbs/issues/new" target="_blank"><img src="https://img.shields.io/badge/Github-black?&style=for-the-badge&logo=Github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; 
 </p>
-
-    <details open>
+<details open>
     <summary><h3>🛠️ My tools: </h3> </summary>
   
    <h3> :pencil2: Programming and Markup Languages</h3>
@@ -60,7 +59,7 @@
    <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" />
   </p>
 
-    </details>
+</details>
 <details open>
   <summary><h2>⚡ Also check:</h2></summary>
 
