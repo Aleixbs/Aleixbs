@@ -1,7 +1,7 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Aleixbs%20💻%20|%20%20GIS%20Developer&width=800&height=200)](https://github.com/Akshay090/svg-banners)
 <h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"/>, nice to see you 🌍</h1> 
 
-<h3 align="center" size="2rem"> 🙇‍ <b>About me:</b> </h2>
+<h3> 🙇‍ <b>About me:</b> </h3>
 <ul>
   <li>🌍 <b>I'm currently learning GIS development in ESRI</b> 🌱🌱  </li>
 
@@ -14,18 +14,17 @@
   <li>💥 <b>I’m looking to collaborate on any GIS related project</b>  </li>
 </ul>
 
-## 📫 How to reach me:
+<h3>📫 <b>How to reach me:</b> </h3>
 
 <p align="center">
   <a href="https://twitter.com/aleixbat" target="_blank"><img src="https://img.shields.io/badge/-Twitter-lightblue?style=for-the-badge&logo=Twitter&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aleixbatllesureda/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:aleix19.96@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-linen?&style=for-the-badge&logo=Gmail&logoColor=red";" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Aleixbs/Aleixbs/issues/new" target="_blank"><img src="https://img.shields.io/badge/Github-black?&style=for-the-badge&logo=Github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; 
+  <a href="mailto:aleix19.96@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-linen?&style=for-the-badge&logo=Gmail&logoColor=red";" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Aleixbs/Aleixbs/issues/new" target="_blank"><img src="https://img.shields.io/badge/Github-black?&style=for-the-badge&logo=Github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; 
 </p>
 
-- 💬 <b>Don't hesitate and let's get in touch!</b>
-  
-## 🛠️ My tools: 
+    <details open>
+    <summary><h3>🛠️ My tools: </h3> </summary>
   
    <h3> :pencil2: Programming and Markup Languages</h3>
   <p align="center">
@@ -61,6 +60,7 @@
    <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" />
   </p>
 
+    </details>
 <details open>
   <summary><h2>⚡ Also check:</h2></summary>
 
