@@ -42,7 +42,7 @@
      
   </p>
   
-  <h3>Software and GIS Tools </h3>
+  <h3>💻 Software and GIS Tools </h3>
   <p align='center'>
     <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
     <img src="https://esri.github.io/arcgis-pro-sdk/images/ArcGISPro.png"  alt="ArcGIS Pro SDK for Microsoft .NET Framework" height = "45" width = "45" align="top"  >
@@ -52,7 +52,7 @@
 
   </p>
 
-  <h3> Databases </h3>
+  <h3> <img src="https://aleixbs.github.io/icons/database.png"  alt="MatPlotLib icon" height = "20" width = "20" align="top" /> Databases </h3>
   <p align="center">
    <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" />
   </p>
