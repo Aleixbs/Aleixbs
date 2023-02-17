@@ -60,13 +60,13 @@
 <details open>
   <h2><summary>⚡ Also check:</summary></h2>
 
-<p align="center">
-  <a href="https://codepen.io/Aleixbs" target="_blank"><img src="https://img.shields.io/badge/-Codepen-black?style=for-the-badge&logo=Codepen&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.kaggle.com/aleixbs" target="_blank"><img src="https://img.shields.io/badge/-kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://auth.geeksforgeeks.org/user/esriab710p" target="_blank"><img src="https://img.shields.io/badge/-GeeksForGeeks-limegreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+  <p align="center">
+     <a href="https://codepen.io/Aleixbs" target="_blank"><img src="https://img.shields.io/badge/-Codepen-black?style=for-the-badge&logo=Codepen&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+     <a href="https://www.kaggle.com/aleixbs" target="_blank"><img src="https://img.shields.io/badge/-kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+     <a href="https://auth.geeksforgeeks.org/user/esriab710p" target="_blank"><img src="https://img.shields.io/badge/-GeeksForGeeks-limegreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  </p>
 
-  <h3><summary>🧭 Active Repositories:</summary></h3>
+ <h3>🧭 Active Repositories:</h3>
 
 <p align="center">
   <a href ="https://Aleixbs.github.io/CV_Aleixbs" target="_blank"><img src="https://img.shields.io/badge/Cv-Done-darkgreen " /></a>
