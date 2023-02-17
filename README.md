@@ -52,6 +52,7 @@
   </p>
  
   <h3> Databases </h3>
+  <p align="center">
    <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" />
   
   </p>
