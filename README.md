@@ -58,7 +58,7 @@
   </p>
 
 <details open>
-  <h2><summary>⚡ Also check:</summary></h2>
+  <summary><h2>⚡ Also check:</h2></summary>
 
   <p align="center">
      <a href="https://codepen.io/Aleixbs" target="_blank"><img src="https://img.shields.io/badge/-Codepen-black?style=for-the-badge&logo=Codepen&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
