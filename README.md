@@ -47,7 +47,7 @@
     <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
     <img src="https://esri.github.io/arcgis-pro-sdk/images/ArcGISPro.png"  alt="ArcGIS Pro SDK for Microsoft .NET Framework" height = "45" width = "45" align="top"  >
     <img src="https://aleixbs.github.io/icons/arcgis-enterprise.png"  alt="ArcGIS Pro SDK for Microsoft .NET Framework" height = "45" width = "45" align="top"  >
-    <img src="https://aleixbs.github.io/icons/Google_Earth_icon.svg"  alt="ArcGIS Pro SDK for Microsoft .NET Framework" height = "45" width = "45" align="top"  >
+    <img src="https://aleixbs.github.io/icons/googleearth-engine_104576.svg"  alt="ArcGIS Pro SDK for Microsoft .NET Framework" height = "45" width = "45" align="top"  >
     <img src="https://aleixbs.github.io/icons/QGIS_logo_new.svg"  alt="ArcGIS Pro SDK for Microsoft .NET Framework" height = "45" width = "45" align="top"  >
 
   </p>
