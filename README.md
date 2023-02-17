@@ -6,9 +6,11 @@
   <li>🌍 <b>I'm currently learning GIS development in ESRI</b> 🌱🌱  </li>
 
   <li>:construction_worker: <b>I'm currently working on:</b> </li>
-      <p align="center">✨Building a Resume website to display all my projects on github.io  https://Aleixbs.github.io/CV_Aleixbs </p>   
-      <p align="center">✨Building a collaborative tool for wildlife and forests protection at SOS COSTABRAVA   </p>
-  <p align="center">✨Building a solution to display regional economics on a website for my final project   </p>             
+  <ul>
+      <li>✨Building a Resume website to display all my projects on github.io  https://Aleixbs.github.io/CV_Aleixbs </li>   
+      <li>✨Building a collaborative tool for wildlife and forests protection at SOS COSTABRAVA   </li>
+      <li>✨Building a solution to display regional economics on a website for my final project   </li>       
+  </ul>
   <li>💥 <b>I’m looking to collaborate on any GIS related project</b>  </li>
 </ul>
 
