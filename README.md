@@ -1,7 +1,7 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Aleixbs%20💻%20|%20%20GIS%20Developer&width=800&height=200)](https://github.com/Akshay090/svg-banners)
 <h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"/>, nice to see you 🌍</h1> 
 
-<h3 align="center"> 🙇‍ About me: </h3>
+<h2 align="center"> 🙇‍ <b>About me:</b> </h2>
 <ul>
   <li>🌍 <b>I'm currently learning GIS development in ESRI</b> 🌱🌱  </li>
 
