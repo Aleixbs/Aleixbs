@@ -36,7 +36,7 @@
          <img src="https://skillicons.dev/icons?i=bootstrap,dojo/> 
      </a>
          <img src="https://commons.wikimedia.org/wiki/File:Dojo_toolkit_logo.svg"  alt="dojo toolkit for ArcGIS Js API" height = "20" width = "20" align="top" />
-         <img src="https://commons.wikimedia.org/wiki/File:Matplotlib_icon.svg"  alt="MatPlotLib icon" height = "20" width = "20" align="top" />
+         <img src="https://commons.wikimedia.org/wiki/File:Matplotlib_icon.svg#/media/File:Matplotlib_icon.svg"  alt="MatPlotLib icon" height = "20" width = "20" align="top" />
          <img src="https://commons.wikimedia.org/wiki/File:Pandas_logo.svg"  alt="Pandas logo" height = "20" width = "20" align="top" />
          <img src="https://commons.wikimedia.org/wiki/File:Scikit_learn_logo_small.svg"  alt="SCIKIT LEARN" height = "20" width = "20" align="top" />  
      
@@ -54,7 +54,6 @@
   <h3> Databases </h3>
   <p align="center">
    <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" />
-  
   </p>
 
 ## ⚡ Also check:
