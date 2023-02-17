@@ -57,7 +57,8 @@
    <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" />
   </p>
 
-## ⚡ Also check:
+<details open>
+  <h2><summary>⚡ Also check:</summary></h2>
 
 <p align="center">
   <a href="https://codepen.io/Aleixbs" target="_blank"><img src="https://img.shields.io/badge/-Codepen-black?style=for-the-badge&logo=Codepen&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -65,7 +66,7 @@
   <a href="https://auth.geeksforgeeks.org/user/esriab710p" target="_blank"><img src="https://img.shields.io/badge/-GeeksForGeeks-limegreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-## 🧭 Active Repositories:
+  <h3><summary>🧭 Active Repositories:</summary></h3>
 
 <p align="center">
   <a href ="https://Aleixbs.github.io/CV_Aleixbs" target="_blank"><img src="https://img.shields.io/badge/Cv-Done-darkgreen " /></a>
@@ -73,10 +74,10 @@
   <a href ="https://www.esri.es/es-es/home " target="_blank"><img src="https://img.shields.io/badge/PFM-Working-brightgreen " /></a>
   <a href ="https://aleixbs.github.io/MasterGIS_U5_HtmlCSSJs/ " target="_blank"><img src="https://img.shields.io/badge/MASTER%20GIS-Working-brightgreen " /></a>
 </p>
-
+  </details>
 <details open>
   
-  <summary><h3>🔥 GitHub Stats<h3></summary>
+  <summary><h2>🔥 GitHub Stats<h2></summary>
  <!-- https://github.com/anuraghazra/github-readme-stats -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aleixbs's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Aleixbs&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
