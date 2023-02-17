@@ -1,15 +1,16 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Aleixbs%20💻%20|%20%20GIS%20Developer&width=800&height=200)](https://github.com/Akshay090/svg-banners)
 <h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"/>, nice to see you 🌍</h1> 
 
-## 🙇‍ About me:    
+<h3 align="center"> 🙇‍ About me: </h3>
+<ul>
+  <li>🌍 I'm currently learning GIS development in ESRI 🌱🌱  
 
-- 🌍 I'm currently learning GIS development in ESRI 🌱🌱  
-
-- :construction_worker: I'm currently working on: 
-  - ✨Building a Resume website to display all my projects on github.io  https://Aleixbs.github.io/CV_Aleixbs    
-  - ✨Building a collaborative tool for wildlife and forests protection at SOS COSTABRAVA   
+  <li>:construction_worker: I'm currently working on: 
+      <li>✨Building a Resume website to display all my projects on github.io  https://Aleixbs.github.io/CV_Aleixbs    
+      <li>✨Building a collaborative tool for wildlife and forests protection at SOS COSTABRAVA   
   - ✨Building a solution to display regional economics on a website for my final project                
 - 💥 I’m looking to collaborate on any GIS related project  
+</ul>
 
 ## 📫 How to reach me:
 
