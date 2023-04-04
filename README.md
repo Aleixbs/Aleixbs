@@ -9,7 +9,8 @@
   <ul>
       <li>✨Building a Resume website to display all my projects on github.io  https://Aleixbs.github.io/CV_Aleixbs </li>   
       <li>✨Building a collaborative tool for wildlife and forests protection at SOS COSTABRAVA   </li>
-      <li>✨Building a solution to display regional economics on a website for my final project   </li>       
+      <li>✨Building a solution to display regional economics on a website for my final project   </li>
+      <li>✨Building a chat-GPT widget for ArcGIS Web App Builder with API 3.x   ...soon</li>
   </ul>
   <li>💥 <b>I’m looking to collaborate on any GIS related project</b>  </li>
 </ul>
@@ -75,6 +76,7 @@
   <a href ="https://Aleixbs.github.io/CV_Aleixbs" target="_blank"><img src="https://img.shields.io/badge/Cv-Done-darkgreen " /></a>
   <a href ="https://soscostabrava.cat/ " target="_blank"><img src="https://img.shields.io/badge/SOSCB-On%20Hold-yellow " /></a>
   <a href ="https://www.esri.es/es-es/home " target="_blank"><img src="https://img.shields.io/badge/PFM-Working-brightgreen " /></a>
+  <a href ="https://openai.com/product/gpt-4 " target="_blank"><img src="https://img.shields.io/badge/Chat-GPT-Widget-Soon-brightgreen " /></a>
   <a href ="https://aleixbs.github.io/MasterGIS_U5_HtmlCSSJs/ " target="_blank"><img src="https://img.shields.io/badge/MASTER%20GIS-Working-brightgreen " /></a>
 </p>
   </details>
