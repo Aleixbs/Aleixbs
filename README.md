@@ -7,10 +7,10 @@
 
   <li>:construction_worker: <b>I'm currently working on:</b> </li>
   <ul>
-      <li>✨Building a Resume website to display all my projects on github.io  https://Aleixbs.github.io/CV_Aleixbs </li>   
-      <li>✨Building a collaborative tool for wildlife and forests protection at SOS COSTABRAVA   </li>
-      <li>✨Building a solution to display regional economics on a website for my final project   </li>
-      <li>✨Building a chat-GPT widget for ArcGIS Web App Builder with API 3.x   ...soon</li>
+      <li>✨Built a Resume website to display all my projects on github.io  https://Aleixbs.github.io/CV_Aleixbs </li>   
+      <li>✨Built a collaborative tool for wildlife and forests protection at SOS COSTABRAVA   </li>
+      <li>✨Built a solution to display regional economics on a website for my final project   https://aleixbs.github.io/AppCCAA/  and https://aleixbs.github.io/VisorApp/</li>
+      <li>✨Built a chat-GPT widget for ArcGIS Web App Builder with API 3.x   ...soon https://github.com/Aleixbs/AppCCAA/tree/main/widgets/ArcGISGPT_copy</li>
   </ul>
   <li>💥 <b>I’m looking to collaborate on any GIS related project</b>  </li>
 </ul>
