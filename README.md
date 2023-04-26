@@ -75,8 +75,8 @@
 <p align="center">
   <a href ="https://Aleixbs.github.io/CV_Aleixbs" target="_blank"><img src="https://img.shields.io/badge/Cv-Done-darkgreen " /></a>
   <a href ="https://soscostabrava.cat/ " target="_blank"><img src="https://img.shields.io/badge/SOSCB-On%20Hold-yellow " /></a>
-  <a href ="https://www.esri.es/es-es/home " target="_blank"><img src="https://img.shields.io/badge/PFM-Working-brightgreen " /></a>
-  <a href ="https://openai.com/product/gpt-4 " target="_blank"><img src="https://img.shields.io/badge/ChatGPT%20Widget-Soon-brightgreen " /></a>
+  <a href ="https://www.esri.es/es-es/home " target="_blank"><img src="https://img.shields.io/badge/PFM-Done-darkgreen " /></a>
+  <a href ="https://openai.com/product/gpt-4 " target="_blank"><img src="https://img.shields.io/badge/ChatGPT%20Widget-Done-darkgreen " /></a>
   <a href ="https://aleixbs.github.io/MasterGIS_U5_HtmlCSSJs/ " target="_blank"><img src="https://img.shields.io/badge/MASTER%20GIS-Working-brightgreen " /></a>
 </p>
   </details>
