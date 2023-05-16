@@ -41,7 +41,8 @@
          <img src="https://aleixbs.github.io/icons/Dojo_logo.svg"  alt="dojo toolkit for ArcGIS Js API" height = "45" width = "45" align="top" />
          <img src="https://aleixbs.github.io/icons/Matplotlib_icon.svg"  alt="MatPlotLib icon" height = "45" width = "45" align="top" />
          <img src="https://aleixbs.github.io/icons/Pandas_logo.svg"  alt="Pandas logo" height = "55" width = "55" align="top" />
-         <img src="https://aleixbs.github.io/icons/Scikit_learn_logo_small.svg"  alt="SCIKIT LEARN" height = "45" width = "45" align="top" />  
+         <img src="https://aleixbs.github.io/icons/Scikit_learn_logo_small.svg"  alt="SCIKIT LEARN" height = "45" width = "45" align="top" />
+         <img src="https://github.com/aleixbs/arcpyicon.svg"  alt="arcpy logo" height = "45" width = "45" align="top" /> 
      
   </p>
   
