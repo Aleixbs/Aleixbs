@@ -29,7 +29,7 @@
    <h3> :pencil2: Programming and Markup Languages</h3>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,html,css,py,r,ts" />
+      <img src="https://skillicons.dev/icons?i=js,html,css,py,r,ts,react" />
     </a>
   </p>
   
