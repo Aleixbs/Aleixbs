@@ -62,7 +62,7 @@
    <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,aws,gcp" />
   </p>
 
-    <h3> 🎮 To Have fun </h3>
+  <h3> 🎮 To Have fun </h3>
   <p align="center">
    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
   </p>
