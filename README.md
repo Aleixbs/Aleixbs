@@ -30,14 +30,14 @@
    <h3> :pencil2: Programming and Markup Languages</h3>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,html,css,py,r,ts,react" />
+      <img src="https://skillicons.dev/icons?i=js,html,css,py,r,ts" />
     </a>
   </p>
   
   <h3>🧰 Frameworks and Libraries</h3>
   <p align="center">
      <a href="https://skillicons.dev">
-         <img src="https://skillicons.dev/icons?i=bootstrap" /> 
+         <img src="https://skillicons.dev/icons?i=bootstrap,react" /> 
      </a>
          <img src="https://aleixbs.github.io/icons/Dojo_logo.svg"  alt="dojo toolkit for ArcGIS Js API" height = "45" width = "45" align="top" />
          <img src="https://aleixbs.github.io/icons/Matplotlib_icon.svg"  alt="MatPlotLib icon" height = "45" width = "45" align="top" />
