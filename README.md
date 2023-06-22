@@ -65,7 +65,7 @@
   <h3> 🎮 To Have fun </h3>
   <p align="center">
    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
-   <img src="https://github.com/Aleixbs/icons/blob/main/dji-removebg-preview-_1_.svg" height = "45" width = "45" align="top" />
+   <img src="https://github.com/Aleixbs/icons/blob/main/dji-removebg-preview-_1_.svg" alt="dji" height ="45" width ="45" align="top" />
   </p>
 
 </details>
