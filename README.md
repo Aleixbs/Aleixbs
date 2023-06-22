@@ -59,7 +59,12 @@
 
   <h3> <img src="https://aleixbs.github.io/icons/database.png"  alt="MatPlotLib icon" height = "20" width = "20" align="top" /> Databases </h3>
   <p align="center">
-   <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,oracle" />
+   <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,aws,gcp" />
+  </p>
+
+    <h3> 🎮 To Have fun </h3>
+  <p align="center">
+   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
   </p>
 
 </details>
