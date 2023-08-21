@@ -5,8 +5,9 @@
 <ul>
   <li>🌍 <b>I'm currently developing my skills on GIS development in ESRI</b> 🌱🌱  </li>
     <ul>
-      <li>✨REACT for ArcGIS Experience Builder</li>
-      <li>✨Python for ArcGIS automatization</li>
+      <li>👓REACT for ArcGIS Experience Builder</li>
+      <li>🐍 Python for ArcGIS automatization</li>
+      <li>🧠 AI implementation inside ArcGIS Environment</li>
     </ul>
   <li>:construction_worker: <b>I'm currently working on:</b> </li>
   <ul>
