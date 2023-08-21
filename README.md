@@ -3,8 +3,11 @@
 
 <h3> 🙇‍ <b>About me:</b> </h3>
 <ul>
-  <li>🌍 <b>I'm currently learning GIS development in ESRI</b> 🌱🌱  </li>
-
+  <li>🌍 <b>I'm currently developing my skills on GIS development in ESRI</b> 🌱🌱  </li>
+    <ul>
+      <li>✨REACT for ArcGIS Experience Builder</li>
+      <li>✨Python for ArcGIS automatization</li>
+    </ul>
   <li>:construction_worker: <b>I'm currently working on:</b> </li>
   <ul>
       <li>✨Built a Resume website to display all my projects on github.io  https://Aleixbs.github.io/CV_Aleixbs </li>   
