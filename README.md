@@ -15,16 +15,11 @@
         <li>🌟 <b>Wildlife & Forest Protection Tool</b>: Collaboratively working for the betterment of nature with <a href="#">SOS COSTABRAVA</a>.</li>
         <li>🌟 <b>Regional Economics Visualizer</b>: Developed a comprehensive solution for my final project. Dive deep into the <a href="https://aleixbs.github.io/AppCCAA/">Economics App</a> or view a glimpse at the <a href="https://aleixbs.github.io/VisorApp/">Visualizer</a>.</li>
         <li>🌟 <b>Chat-GPT for ArcGIS</b>: Creating a Chat-GPT widget for ArcGIS Web App Builder with API 3.x. Stay tuned! <a href="https://github.com/Aleixbs/AppCCAA/tree/main/widgets/ArcGISGPT_copy">Preview Here</a>.</li>
-    </ul>
+    </ul> 
+  <ul>
     <li>💥 <b>Collaborate with Me</b>: I’m keen to join forces on any GIS-related project. Reach out!</li>
+  </ul>
 </ul>
-
-- 🚧 **Projects:** 
-  - 🌟 **Portfolio Website**: Proudly showcasing all my projects. Check it out at [Aleixbs's Resume](https://Aleixbs.github.io/CV_Aleixbs).
-  - 🌟 **Wildlife & Forest Protection Tool**: Collaboratively working for the betterment of nature with [SOS COSTABRAVA](#).
-  - 🌟 **Regional Economics Visualizer**: Developed a comprehensive solution for my final project. Dive deep into the [Economics App](https://aleixbs.github.io/AppCCAA/) or view a glimpse at the [Visualizer](https://aleixbs.github.io/VisorApp/).
-  - 🌟 **Chat-GPT for ArcGIS**: Creating a Chat-GPT widget for ArcGIS Web App Builder with API 3.x. Stay tuned! [Preview Here](https://github.com/Aleixbs/AppCCAA/tree/main/widgets/ArcGISGPT_copy).
-- 💥 **Collaborate with Me**: I’m keen to join forces on any GIS-related project. Reach out!
 
 
 <h3>📫 <b>How to reach me:</b> </h3>
