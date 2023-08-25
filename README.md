@@ -11,12 +11,12 @@
     </ul>
   <li>:construction_worker: <b>Projects:</b> </li>
   <ul>
-      <li>🌟 <b>Portfolio Website</b>: Proudly showcasing all my projects. Check it out at <a href="https://Aleixbs.github.io/CV_Aleixbs">Aleixb's Resume</a>.</li>   
-      <li>🌟Built a collaborative tool for wildlife and forests protection at SOS COSTABRAVA   </li>
-      <li>🌟Built a solution to display regional economics on a website for my final project   https://aleixbs.github.io/AppCCAA/  and https://aleixbs.github.io/VisorApp/</li>
-      <li>🌟Built a chat-GPT widget for ArcGIS Web App Builder with API 3.x   ...soon https://github.com/Aleixbs/AppCCAA/tree/main/widgets/ArcGISGPT_copy</li>
-  </ul>
-  <li>💥 <b>I’m looking to collaborate on any GIS related project</b>  </li>
+        <li>🌟 <b>Portfolio Website</b>: Proudly showcasing all my projects. Check it out at <a href="https://Aleixbs.github.io/CV_Aleixbs">Aleixbs's Resume</a>.</li>
+        <li>🌟 <b>Wildlife & Forest Protection Tool</b>: Collaboratively working for the betterment of nature with <a href="#">SOS COSTABRAVA</a>.</li>
+        <li>🌟 <b>Regional Economics Visualizer</b>: Developed a comprehensive solution for my final project. Dive deep into the <a href="https://aleixbs.github.io/AppCCAA/">Economics App</a> or view a glimpse at the <a href="https://aleixbs.github.io/VisorApp/">Visualizer</a>.</li>
+        <li>🌟 <b>Chat-GPT for ArcGIS</b>: Creating a Chat-GPT widget for ArcGIS Web App Builder with API 3.x. Stay tuned! <a href="https://github.com/Aleixbs/AppCCAA/tree/main/widgets/ArcGISGPT_copy">Preview Here</a>.</li>
+    </ul>
+    <li>💥 <b>Collaborate with Me</b>: I’m keen to join forces on any GIS-related project. Reach out!</li>
 </ul>
 
 - 🚧 **Projects:** 
