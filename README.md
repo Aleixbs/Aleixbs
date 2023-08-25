@@ -9,17 +9,17 @@
       <li>🐍 Python for ArcGIS automatization</li>
       <li>🧠 AI implementation inside ArcGIS Environment</li>
     </ul>
-  <li>:construction_worker: <b>I'm currently working on:</b> </li>
+  <li>:construction_worker: <b>Projects:</b> </li>
   <ul>
-      <li>✨Built a Resume website to display all my projects on github.io  https://Aleixbs.github.io/CV_Aleixbs </li>   
-      <li>✨Built a collaborative tool for wildlife and forests protection at SOS COSTABRAVA   </li>
-      <li>✨Built a solution to display regional economics on a website for my final project   https://aleixbs.github.io/AppCCAA/  and https://aleixbs.github.io/VisorApp/</li>
-      <li>✨Built a chat-GPT widget for ArcGIS Web App Builder with API 3.x   ...soon https://github.com/Aleixbs/AppCCAA/tree/main/widgets/ArcGISGPT_copy</li>
+      <li>🌟 <b>Portfolio Website</b>: Proudly showcasing all my projects. Check it out at [Aleixbs's Resume](https://Aleixbs.github.io/CV_Aleixbs). </li>   
+      <li>🌟Built a collaborative tool for wildlife and forests protection at SOS COSTABRAVA   </li>
+      <li>🌟Built a solution to display regional economics on a website for my final project   https://aleixbs.github.io/AppCCAA/  and https://aleixbs.github.io/VisorApp/</li>
+      <li>🌟Built a chat-GPT widget for ArcGIS Web App Builder with API 3.x   ...soon https://github.com/Aleixbs/AppCCAA/tree/main/widgets/ArcGISGPT_copy</li>
   </ul>
   <li>💥 <b>I’m looking to collaborate on any GIS related project</b>  </li>
 </ul>
 
-- 🚧 **Current Projects:** 
+- 🚧 **Projects:** 
   - 🌟 **Portfolio Website**: Proudly showcasing all my projects. Check it out at [Aleixbs's Resume](https://Aleixbs.github.io/CV_Aleixbs).
   - 🌟 **Wildlife & Forest Protection Tool**: Collaboratively working for the betterment of nature with [SOS COSTABRAVA](#).
   - 🌟 **Regional Economics Visualizer**: Developed a comprehensive solution for my final project. Dive deep into the [Economics App](https://aleixbs.github.io/AppCCAA/) or view a glimpse at the [Visualizer](https://aleixbs.github.io/VisorApp/).
