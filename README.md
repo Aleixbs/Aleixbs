@@ -19,6 +19,14 @@
   <li>💥 <b>I’m looking to collaborate on any GIS related project</b>  </li>
 </ul>
 
+- 🚧 **Current Projects:** 
+  - 🌟 **Portfolio Website**: Proudly showcasing all my projects. Check it out at [Aleixbs's Resume](https://Aleixbs.github.io/CV_Aleixbs).
+  - 🌟 **Wildlife & Forest Protection Tool**: Collaboratively working for the betterment of nature with [SOS COSTABRAVA](#).
+  - 🌟 **Regional Economics Visualizer**: Developed a comprehensive solution for my final project. Dive deep into the [Economics App](https://aleixbs.github.io/AppCCAA/) or view a glimpse at the [Visualizer](https://aleixbs.github.io/VisorApp/).
+  - 🌟 **Chat-GPT for ArcGIS**: Creating a Chat-GPT widget for ArcGIS Web App Builder with API 3.x. Stay tuned! [Preview Here](https://github.com/Aleixbs/AppCCAA/tree/main/widgets/ArcGISGPT_copy).
+- 💥 **Collaborate with Me**: I’m keen to join forces on any GIS-related project. Reach out!
+
+
 <h3>📫 <b>How to reach me:</b> </h3>
 
 <p align="center">
