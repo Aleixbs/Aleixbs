@@ -11,7 +11,7 @@
     </ul>
   <li>:construction_worker: <b>Projects:</b> </li>
   <ul>
-      <li>🌟 <b>Portfolio Website</b>: Proudly showcasing all my projects. Check it out at [Aleixbs's Resume](https://Aleixbs.github.io/CV_Aleixbs). </li>   
+      <li>🌟 <b>Portfolio Website</b>: Proudly showcasing all my projects. Check it out at <a href="https://Aleixbs.github.io/CV_Aleixbs">Aleixb's Resume</a>.</li>   
       <li>🌟Built a collaborative tool for wildlife and forests protection at SOS COSTABRAVA   </li>
       <li>🌟Built a solution to display regional economics on a website for my final project   https://aleixbs.github.io/AppCCAA/  and https://aleixbs.github.io/VisorApp/</li>
       <li>🌟Built a chat-GPT widget for ArcGIS Web App Builder with API 3.x   ...soon https://github.com/Aleixbs/AppCCAA/tree/main/widgets/ArcGISGPT_copy</li>
