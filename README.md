@@ -90,6 +90,7 @@
   <a href ="https://www.esri.es/es-es/home " target="_blank"><img src="https://img.shields.io/badge/PFM-Done-darkgreen " /></a>
   <a href ="https://openai.com/product/gpt-4 " target="_blank"><img src="https://img.shields.io/badge/ChatGPT%20Widget-Done-darkgreen " /></a>
   <a href ="https://aleixbs.github.io/MasterGIS_U5_HtmlCSSJs/ " target="_blank"><img src="https://img.shields.io/badge/MASTER%20GIS-Working-brightgreen " /></a>
+  <a href ="https://aleixbs.github.io/todo-app-ts/ " target="_blank"><img src="https://img.shields.io/badge/AppTS+React-Deployed-brightgreen " /></a>
 </p>
   </details>
 <details open>
