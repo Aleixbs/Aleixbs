@@ -42,7 +42,7 @@
   <h3>🧰 Frameworks and Libraries</h3>
   <p align="center">
      <a href="https://skillicons.dev">
-         <img src="https://skillicons.dev/icons?i=bootstrap,react" /> 
+         <img src="https://skillicons.dev/icons?i=vite,bootstrap,react" /> 
      </a>
          <img src="https://github.com/Aleixbs/icons/blob/main/dojo-white.svg"  alt="dojo toolkit for ArcGIS Js API" height = "45" width = "45" align="top" />
          <img src="https://aleixbs.github.io/icons/Matplotlib_icon.svg"  alt="MatPlotLib icon" height = "45" width = "45" align="top" />
